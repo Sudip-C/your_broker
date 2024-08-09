@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://backend-db-z6hm.onrender.com"

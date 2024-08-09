@@ -1,0 +1,26 @@
+.nav{
+    border-bottom: 2px solid rgb(173, 168, 168);
+    background-color: aliceblue;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 20px;
+    width: 40%;
+    padding: 0px 20px;
+}
+.item h1{
+    text-decoration: none;
+}
